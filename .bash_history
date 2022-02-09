@@ -23,3 +23,54 @@ touch file3
 ll
 git add file3
 git commit file3
+ll
+git add .
+git commit -m .
+git branch
+git master
+git branch master
+git chekout branch1
+git branch
+git checkout master
+git checkout branch1
+git branch
+ll
+git checkout master
+git status
+git commit -m .
+git checkout master
+ll
+git status
+touch file4
+git add file4
+git commit -m file4
+git commit -m "third commit" file4 
+git checkout branch1
+git chechout master
+git checkout master
+git branch
+git push -u origin master
+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
+yum install git -y
+git --version
+ll
+ls -al
+git init .
+ls -al
+touch file1
+ll
+vim file1
+cat file1
+gid add file1
+git add file1
+git status
+git add .
+git status
+git comit -m "first comit" file1
+git commit -m "first commit" file1
+git log
+touch file2
+git add .
+git commit -m "second commit" .
+git log
+code &
